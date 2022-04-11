@@ -1,3 +1,4 @@
-person
-billiard ball
-donut
+good
+medium
+bad
+no person
